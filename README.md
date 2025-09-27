@@ -91,15 +91,6 @@ npm start
 
 ---
 
-## 🔹 Screenshots
-
-**Song List:**
-![Song List Screenshot](https://user-images.githubusercontent.com/your-image-link/song-list-placeholder.png)
-
-**Albums by Year Chart:**
-![Albums Chart Screenshot](https://user-images.githubusercontent.com/your-image-link/chart-placeholder.png)
-
----
 
 ## 🔹 Future Enhancements
 
