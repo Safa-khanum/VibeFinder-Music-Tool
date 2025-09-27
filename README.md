@@ -1,7 +1,6 @@
 
 # VibeFinder 🎶 – Music Discovery & Visualization Tool
 
-![Uploading Screenshot 2025-09-27 165453.png…]()
 
 
 **VibeFinder** is an interactive web application that allows users to explore music data directly from **Spotify**. It combines **Spotify API integration**, **data visualization**, and a **user-friendly interface** to provide an engaging way to discover songs, albums, and trends in music over time.
