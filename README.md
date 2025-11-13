@@ -47,6 +47,16 @@
 
 ---
 
+## 🖼️ Screenshots
+
+<img width="870" height="664" alt="Screenshot 2025-11-13 130047" src="https://github.com/user-attachments/assets/7f48c117-2fc9-430d-b06c-dbd10af6c49c" />
+
+<img width="1850" height="861" alt="Screenshot 2025-11-13 130111" src="https://github.com/user-attachments/assets/5775ab20-6cfc-4a8b-8890-6aab83b212e8" />
+
+<img width="1685" height="883" alt="Screenshot 2025-11-13 130133" src="https://github.com/user-attachments/assets/5d3b5a30-0dbe-4a87-bea5-dad6c7b2bc57" />
+
+
+
 ## 🔹 Installation
 
 1. **Clone the repository**
