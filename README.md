@@ -1,4 +1,4 @@
-
+ 
 # VibeFinder 🎶 – Music Discovery & Visualization Tool
 
 
